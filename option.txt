@@ -1,0 +1,5 @@
+fullscreen 1
+function 0
+screeny 1000
+screenx 1000
+width 2
